@@ -1,0 +1,6 @@
+gradio
+pandas
+numpy
+matplotlib
+scikit-learn
+sentence-transformers
